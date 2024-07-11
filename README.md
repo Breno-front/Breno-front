@@ -39,7 +39,7 @@
     <a href="mailto:josebrenodev@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/in//" target="_blank">
+    <a href="https://www.linkedin.com/in/breno-silva-2b8a89198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a> 
   </div>
