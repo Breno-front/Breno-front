@@ -3,6 +3,42 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Breno's Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f0f2f5;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      color: #333;
+      margin-top: 20px;
+    }
+    table {
+      margin: 20px auto;
+      border-collapse: collapse;
+    }
+    td {
+      padding: 10px;
+    }
+    img {
+      border-radius: 8px;
+    }
+    .icon-row img {
+      margin: 5px;
+    }
+    .social-links a {
+      margin: 0 10px;
+      text-decoration: none;
+    }
+    .section-title {
+      font-size: 1.5em;
+      margin-top: 20px;
+      color: #555;
+    }
+  </style>
 </head>
 <body>
   <h1>Hello World, I'm Breno, be very welcome!</h1>
@@ -11,28 +47,36 @@
     <tr>
       <td>
         <a href="https://github.com/Breno-front">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-front&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
+          <img height="180" src="https://github-readme-stats.vercel.app/api?username=Breno-front&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
         </a>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-front&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
-        <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-        <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-      </td>
-      <td>
-        <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
-        <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-front&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages">
       </td>
     </tr>
   </table>
 
-  <div> 
+  <div class="section-title">Front-End Technologies</div>
+  <div class="icon-row">
+    <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
+    <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+    <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+    <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
+    <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+  </div>
+
+  <div class="section-title">Back-End Technologies</div>
+  <div class="icon-row">
+    <img src="https://img.icons8.com/color/2x/nodejs.png" width="120" alt="Node.js">
+    <img src="https://img.icons8.com/color/2x/php.png" width="120" alt="PHP">
+    <img src="https://img.icons8.com/color/2x/mysql.png" width="120" alt="MySQL">
+    <img src="https://img.icons8.com/color/2x/mongodb.png" width="120" alt="MongoDB">
+    <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="120" alt="Java">
+    <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python">
+  </div>
+
+  <div class="social-links"> 
     <a href="https://www.instagram.com/brenoos__/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
