@@ -3,42 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome to Breno's Page</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      background-color: #f0f2f5;
-      margin: 0;
-      padding: 0;
-    }
-    h1 {
-      color: #333;
-      margin-top: 20px;
-    }
-    table {
-      margin: 20px auto;
-      border-collapse: collapse;
-    }
-    td {
-      padding: 10px;
-    }
-    img {
-      border-radius: 8px;
-    }
-    .icon-row img {
-      margin: 5px;
-    }
-    .social-links a {
-      margin: 0 10px;
-      text-decoration: none;
-    }
-    .section-title {
-      font-size: 1.5em;
-      margin-top: 20px;
-      color: #555;
-    }
-  </style>
+ 
 </head>
 <body>
   <h1>Hello World, I'm Breno, be very welcome!</h1>
