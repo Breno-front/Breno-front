@@ -3,6 +3,37 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Breno's Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f0f2f5;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      color: #333;
+      margin-top: 20px;
+    }
+    table {
+      margin: 20px auto;
+      border-collapse: collapse;
+    }
+    td {
+      padding: 10px;
+    }
+    img {
+      border-radius: 8px;
+    }
+    .icon-row img {
+      margin: 5px;
+    }
+    .social-links a {
+      margin: 0 10px;
+      text-decoration: none;
+    }
+  </style>
 </head>
 <body>
   <h1>Hello World, I'm Breno, be very welcome!</h1>
@@ -11,14 +42,14 @@
     <tr>
       <td>
         <a href="https://github.com/Breno-front">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-front&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
+          <img height="180" src="https://github-readme-stats.vercel.app/api?username=Breno-front&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
         </a>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-front&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-front&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages">
       </td>
     </tr>
-    <tr>
+    <tr class="icon-row">
       <td>
         <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
@@ -32,7 +63,7 @@
     </tr>
   </table>
 
-  <div> 
+  <div class="social-links"> 
     <a href="https://www.instagram.com/brenoos__/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
