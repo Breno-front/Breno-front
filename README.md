@@ -1,10 +1,18 @@
 <div align="center">
-  <a href="https://github.com/Breno-front">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Breno-front&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-  </a>
-  <a href="#">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-front&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Breno-front">
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=Breno-front&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+        </a>
+      </td>
+      <td>
+        <a href="#">
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-front&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
@@ -13,7 +21,7 @@
   
   <a href="#"><img src="https://raw.githubusercontent.com/blocage/blocage/c27df6d5046c6f48820c2d35ffac9c3f536db39f/contributions.svg" style="height: 200px;"></a>
 
-  <br/>
+  <br clear="both"/>
 
   <p align="center">
     Visitor count<br>
