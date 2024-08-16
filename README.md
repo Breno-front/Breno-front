@@ -6,7 +6,7 @@
   
   # Olá, mundo! 
 
-  Eu me chamo **Breno** e sou **programador frontend**.
+  Eu me chamo <span style="color: #FF5733;"><b>Breno</b></span> e sou <span style="color: #33C1FF;"><b>programador frontend</b></span>.
   
 </div>
 
